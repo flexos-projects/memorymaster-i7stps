@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "users-1",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "users-2",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "users-3",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    }
+  ],
+  "decks": [
+    {
+      "id": "decks-1",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "decks-2",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "decks-3",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "cards-1",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "cards-2",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "cards-3",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    }
+  ],
+  "card_progress": [
+    {
+      "id": "card_progress-1",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "card_progress-2",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "card_progress-3",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    }
+  ],
+  "user_deck_subscriptions": [
+    {
+      "id": "user_deck_subscriptions-1",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "user_deck_subscriptions-2",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    },
+    {
+      "id": "user_deck_subscriptions-3",
+      "createdAt": "2026-02-07T03:34:50.682Z",
+      "updatedAt": "2026-02-07T03:34:50.682Z"
+    }
+  ],
+  "currentUser": {
+    "id": "user-1",
+    "name": "Demo User",
+    "email": "demo@example.com"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "rewrites": [
+    {
+      "source": "/home",
+      "destination": "/landing-page-v1.html"
+    },
+    {
+      "source": "/auth",
+      "destination": "/auth-page-v1.html"
+    },
+    {
+      "source": "/dashboard",
+      "destination": "/dashboard-page-v1.html"
+    },
+    {
+      "source": "/decks",
+      "destination": "/my-decks-page-v1.html"
+    },
+    {
+      "source": "/decks/:id",
+      "destination": "/deck-detail-page-v1.html"
+    },
+    {
+      "source": "/decks/:deckId/cards/:cardId?",
+      "destination": "/card-editor-page-v1.html"
+    },
+    {
+      "source": "/review/:deckId?",
+      "destination": "/review-session-page-v1.html"
+    },
+    {
+      "source": "/explore",
+      "destination": "/explore-decks-page-v1.html"
+    },
+    {
+      "source": "/settings",
+      "destination": "/settings-page-v1.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/shared/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000"
+        }
+      ]
+    }
+  ]
+}
